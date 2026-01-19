@@ -2,6 +2,12 @@
 
 Vinci Forensic Hub is a world-class forensic intelligence platform designed for the insurance and automotive industries. It leverages the cutting-edge capabilities of Google's Gemini and Veo models to transform raw video data into actionable evidence and cinematic recreations.
 
+## 🎥 Demo
+
+https://github.com/user-attachments/assets/screen-recording-demo.mov
+
+[Screen Recording 2026-01-18 at 4.08.20 PM.mov](./Screen%20Recording%202026-01-18%20at%204.08.20%20PM.mov)
+
 ## 🌟 Key Features
 
 ### 🔍 Forensic Video-to-Text Analysis
