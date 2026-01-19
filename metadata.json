@@ -1,0 +1,10 @@
+
+{
+  "name": "Vinci Forensic Hub",
+  "description": "Professional insurance-grade vehicle analysis, damage assessment, and location grounding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
